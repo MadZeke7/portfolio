@@ -1,0 +1,16 @@
+.sideBar ul{
+    list-style-type: none;
+}
+  
+.sideBar li{
+    padding: 0.3rem;
+    border-radius: 0.2rem;
+    margin:2px;
+    font-size: 1.2rem;
+    width: fit-content;
+    cursor: pointer;
+}
+
+.sideBar li:hover{
+    background-color: #D3D3D3;
+}
