@@ -1,0 +1,16 @@
+.name{
+    font-family: 'Kaisei Tokumin', 'Times New Roman', Times, serif;
+    margin-bottom: 2.5rem;
+}
+
+.content .socials{
+    margin-top: 5vh;
+    color: #888888;
+
+    display: flex;
+    gap: 2rem;
+}
+
+.content .desc{
+    margin: 1.5rem 0;
+}

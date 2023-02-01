@@ -1,0 +1,40 @@
+.projects{
+    margin-bottom: 2rem;
+}
+
+.projects h1{
+    font-family: 'Kaisei Tokumin', 'Times New Roman', Times, serif;
+    margin-bottom: 2.5rem;
+}
+
+.projectContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.project{
+    border: 2px solid black;
+    border-radius: 1rem;
+    width: fit-content;
+    padding: 0.5rem;
+    text-align: center;
+    width: 27vw;
+}
+
+.project h3{
+    text-decoration: underline;
+    margin: 0.5rem;
+}
+
+.banner img{
+    height: 27vh;
+    width: 25vw;
+}
+
+.project .links{
+    padding: 1.3rem;
+    display: flex;
+    gap:1rem;
+    justify-content: center;
+}
